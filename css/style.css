@@ -1,0 +1,13 @@
+.clips{
+    background-color: aliceblue;
+    color: #8e83df;
+}
+.choose-plan{
+    background: #f5edf2;
+    width: 207px;
+    height: 47px;
+    border: none;
+}
+.wedding-plus:hover{
+    background: rgb(159, 159, 224);
+}
