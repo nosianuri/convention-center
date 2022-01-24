@@ -1,6 +1,27 @@
+/* font style */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
 .clips{
     background-color: aliceblue;
     color: #b5b0da;
+}
+.card-body .decoration{
+    text-decoration: none;
+}
+h1 a{
+    text-decoration: none;
+    color: rgb(38, 184, 221);
+}
+h3 a{
+    text-decoration: none;
+    color: rgb(38, 184, 221);
+}
+.extra-button{
+    color: aliceblue;
+    background-color: rgb(185, 164, 204);
 }
 .choose-plan{
     background: #f5edf2;
@@ -8,6 +29,21 @@
     height: 47px;
     border: none;
 }
+.asked{
+    top: 2806px;
+    left: 735px;
+    
+}
 .wedding-plus:hover{
-    background: rgb(159, 159, 224);
+    background: rgb(125, 125, 194);
+}
+footer{
+    background-color: #0B0D17;
+    ;
+}
+.get-app{
+    width: 160px;
+    height: 210px;
+    top: 56px;
+    left: 1115px;
 }
